@@ -39,6 +39,7 @@ Additionally, theater projects were the most successful during this time period,
 
 In order to explore the possible differences in US campaigns that were successful versus those that failed, we looked at some basic descriptive statistics by campaign outcome. The mean goal for successful projects ($5,049) was less than half of the failed projects ($10,554). Additionally, the mean amount pledged to successful campaigns ($5,602) was ten times more than the mean for those campaigns that failed to meet their funding goals ($559). On the surface, it appears that the failed projects were generally setting their goals unrealistically high and they were unable to generate enough support to even come close to those meeting those goals. 
 
+![Descriptive Statistics Table US](
 
 ### Analysis of Outcomes Based on Launch Date
 

@@ -39,6 +39,15 @@ Additionally, theater projects were the most successful during this time period,
 
 ### Analysis of Outcomes Based on Launch Date
 
+The question of when to launch her campaign for *Fever* was important to Louise. Is there a certain month or specific time of year that are associated with higher rates of funding success? When we looked at the timing of when campaigns were launched, it appears that there were indeed some launch months that looked more favorable. We first looked at all campaigns in the dataset and, overall, May was the most successful launch month, with success rates gradually tapering downward over the summer. After a dip in success rates in the early fall, there was a rebound in October and November. This was followed by a significant decrease in December, when the number of failed projects exceeded those that were successful.
+
+![Line graph of campaign launch months](https://github.com/brianbutler08/kickstarter-analysis_Module1.6.1/blob/main/Outcomes%20Based%20on%20Launch%20Date.png?raw=true)
+
+Becuase we are primarily interested in theater projects, we ran the same anlysis for just that subcategory of campaigns. Generally, theater projects followed a similar pattern to the larger population, with May being the most successful launch month, followed by decreasing, but still relatively successful, rates in June and July..   Failure rates stayed relatively consistent over this same time period.
+
+
+![Theater Outcomes Based on Launch Month]
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
@@ -58,14 +67,7 @@ Additionally, theater projects were the most successful during this time period,
 
 ## Timing Your Campaign Launch
 
-When we looked at the timing of when campaigns were launched, it appears that there is a correlation between launch month and outcome. Overall, May was the most successful launch month for campaigns, with success rates gradually tapering downward over the summer.
 
-![Line graph of campaign launch months](https://github.com/brianbutler08/kickstarter-analysis_Module1.6.1/blob/main/Outcomes%20Based%20on%20Launch%20Date.png?raw=true)
-
-Specifically, theater projects followed this same pattern. Failure rates stayed relatively consistent over this same time period.
-
-
-![Theater Outcomes Based on Launch Month](https://github.com/brianbutler08/kickstarter-analysis_Module1.6.1/blob/main/Theater%20Outcomes%20Based%20on%20Launch%20Date.png?raw=true)
 
 ## Analysis of *Foresight*
 

@@ -53,15 +53,25 @@ Becuase we are primarily interested in theater projects, we ran the same anlysis
 
 ### Analysis of Outcomes Based on Goals
 
+In addition to looking at the timing of a campaign launch, we thought it would be important to investigate the relative success of a fundraising project based on the goal amount. Louise initially estimated a goal of $10,000, so we wanted to explore the success (or failure) rate of a project that size to provide her with guidance on how to proceed. For this step, we limited our analysis to plays only in order to eliminate other theater projects that would be much less comparable (i.e. acquiring physical spaces, theater renovations).
+
 ![Outcomes vs Goals](https://github.com/brianbutler08/kickstarter_analysis/blob/main/Outcomes_vs_Goals.png?raw=true)
+
+Perhaps unsurprisingly, the campaigns with the highest rates of success were those that had the loweest goals. Seventy six percent of campaigns under $1,000 were successful, as were 73% of projects between $1,000 and $4,999. As the goal increases above $5,000, the proportion of successful projects decreases dramactically. Of campaigns with a goal of $25,000 to $29,999, only one in five was successfuly funded. Interestingly, two thirds of play campaigns with goals between $35,000 and $44,999 successfully met their funding goals, suggesting that high goal amounts didn't necessarily translate to failure. Looking specifically at Louise's goal of $10,000 - just over half (54%) of similar campaigns were successfully funded, suggesting that she may need to reconsider her budget.
 
 ### Challenges and Difficulties Encountered
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+# Launch Date Conclusions
 
-- What can you conclude about the Outcomes based on Goals?
+Based on our anaylsis of campaign launch dates, we could draw a couple of conclusions and make two recommendations to Louise. Ideally, she should look to launch her campaign in May, or in early summer at the very least. Based on the eight year of data that we have in this dataset, this is the time of year that is associated with the highest success rates. Our other suggestion would be to not, under any circumstances, launch her campaign in December, where the number of projects that have succeeded are almost identical to the number that have failed.
+
+# Goal Amount Conclusions
+
+As mentioned above, we can conclude that the most successful play campaigns were those with modest goals of under $5,000 OR those with goals above $35,000, but below $45,000. Because Louise does not require funding in the amount of the latter category, she should be looking to set a funding goal that is much lower than her current idea of $10,000. Plays with goals at that amount *do* get funded, just at much lower proportions as those with lower expectations. 
+
+# Limitations of the Dataset
 
 - What are some limitations of this dataset?
 

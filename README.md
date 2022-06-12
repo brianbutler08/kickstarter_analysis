@@ -53,7 +53,7 @@ Becuase we are primarily interested in theater projects, we ran the same anlysis
 
 ### Analysis of Outcomes Based on Goals
 
-
+![Outcomes vs Goals](https://github.com/brianbutler08/kickstarter_analysis/blob/main/Outcomes_vs_Goals.png?raw=true)
 
 ### Challenges and Difficulties Encountered
 

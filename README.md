@@ -41,8 +41,6 @@ In order to explore the possible differences in US campaigns that were successfu
 
 ![Descriptive Statistics Table US](https://github.com/brianbutler08/kickstarter_analysis/blob/main/Kickstarter%20Table.png?raw=true)
 
-No major challenegs were encountered during this analysis. However, there could potentially be issues with similar datasets in the future. The primary issue here is with the relatively larger number of fields and the myriad of ways that the data could be approached. For some, there may be so many potential variables to look at, that it could be quite paralyzing and one may be unsure where to begin. This can be remedied by setting out a course of action early on and solid communication with Louise about what her expectations are.
-
 ### Analysis of Outcomes Based on Launch Date
 
 The question of when to launch her campaign for *Fever* was important to Louise. Is there a certain month or specific time of year that are associated with higher rates of funding success? When we looked at the timing of when campaigns were launched, it appears that there were indeed some launch months that looked more favorable. We first looked at all campaigns in the dataset and, overall, May was the most successful launch month, with success rates gradually tapering downward over the summer. After a dip in success rates in the early fall, there was a rebound in October and November. This was followed by a significant decrease in December, when the number of failed projects exceeded those that were successful.
@@ -62,6 +60,8 @@ In addition to looking at the timing of a campaign launch, we thought it would b
 Perhaps unsurprisingly, the campaigns with the highest rates of success were those that had the loweest goals. Seventy six percent of campaigns under $1,000 were successful, as were 73% of projects between $1,000 and $4,999. As the goal increases above $5,000, the proportion of successful projects decreases dramactically. Of campaigns with a goal of $25,000 to $29,999, only one in five was successfuly funded. Interestingly, two thirds of play campaigns with goals between $35,000 and $44,999 successfully met their funding goals, suggesting that high goal amounts didn't necessarily translate to failure. Looking specifically at Louise's goal of $10,000 - just over half (54%) of similar campaigns were successfully funded, suggesting that she may need to reconsider her budget.
 
 ### Challenges and Difficulties Encountered
+
+No major challenegs were encountered during this analysis. However, there could potentially be issues with similar datasets in the future. The primary issue here is with the relatively larger number of fields and the myriad of ways that the data could be approached. For some, there may be so many potential variables to look at, that it could be quite paralyzing and one may be unsure where to begin. This can be remedied by setting out a course of action early on and solid communication with Louise about what her expectations are.
 
 ## Results
 

@@ -63,35 +63,24 @@ Perhaps unsurprisingly, the campaigns with the highest rates of success were tho
 
 ## Results
 
-# Launch Date Conclusions
+### Launch Date Conclusions
 
 Based on our anaylsis of campaign launch dates, we could draw a couple of conclusions and make two recommendations to Louise. Ideally, she should look to launch her campaign in May, or in early summer at the very least. Based on the eight year of data that we have in this dataset, this is the time of year that is associated with the highest success rates. Our other suggestion would be to not, under any circumstances, launch her campaign in December, where the number of projects that have succeeded are almost identical to the number that have failed.
 
-# Goal Amount Conclusions
+### Goal Amount Conclusions
 
 As mentioned above, we can conclude that the most successful play campaigns were those with modest goals of under $5,000 OR those with goals above $35,000, but below $45,000. Because Louise does not require funding in the amount of the latter category, she should be looking to set a funding goal that is much lower than her current idea of $10,000. Plays with goals at that amount *do* get funded, just at much lower proportions as those with lower expectations. 
 
-# Limitations of the Dataset
+### Limitations of the Dataset
 
-- What are some limitations of this dataset?
+Despite our dataset being extremely comprehensive and containing important, high level information, there are still two primary limitations that could be rectified. Primarily, it would be helpful if the set included a few more years of data. Information as recent as 2017 may be sufficient for some analysis projects, but when looking at economic and financial trends, it is critical to have the most up to date dataset possible. Downturns in the economy, inflation, unemployment and changing consumer behavior can have significant effects on how people spend their disposible income and how donations are viewed. A lot has changed in the global economic realm in the five years since this dataset was released and to make recommendations in 2022 using older data could lead to some less than accurate advice.
 
-- What are some other possible tables and/or graphs that we could create?
+The other limitation would be the relatively small number of subcategories in the "theater" parent category. Or rather, the lack of more granular data in the "plays" category. A quick read through the blurbs for play campaigns reveals a diverse group of people and organizations seeking funding. There are solo playwrights, like Louise, but there are also theater troupes, playhouses, non-profit organizations, theater societies, and combinations of entities sponsoring campaigns. Additionally, some plays are intended for a single festival, others will be short runs of a few shows and others appear to be longer term commitments. All of these separate factors play a part in determining if funding goals will untimately be met and it would help the analysis if there were additional categories to explore. To most effectivley guide Louise, we should be looking at the campaigns that most closely resemble hers. 
 
+### Suggestions for Future Analysis
 
+Moving forward, there is the potential to create additional tables and graphs for this analysis, or to update or existing work by adding or removing complicating fields.
 
+In addtion to the analysis that we have done above, there could be a few other helpful areas of future exploration. The first is related to the limitation expressed above. It may be beneficial to look specifially at plays that are similar to *Fever*, or plays that Louise liked personally. A little of this type of analysis was done earlier with five plays from the Edinburgh Festival Fringe that Lousie enjoyed. We discovered that all five plays were successful in meeting their funding goal. They each had a relatively modest goal, with the highest being just $4,000 and the average being $2,100. They each had a good number of backers (mean = 62.4), with each person contributing an average of $40.50. These suggest some good numbers for Louise to emulate and looking in depth at even more similar plays could help round out the overall project.
 
-## Timing Your Campaign Launch
-
-
-
-## Analysis of *Foresight*
-
-Because Louise had an interest in the British play *Foresight*, we looked at it specifically to see how successful its campaign was. It was fully funded, despite only having seventeen backers, leading to a high average donation of $117.88 per person. Additionally, the campaign ran for just under a month, less than the dataset average of 33 days. 
-
-## Edinburgh Festival 
- 
-Louise was inspired by five specific plays that she saw at the Edinburgh Festival Fringe, so we looked in detail to see if they could provide any insights into creating a successful crowdfunding campaign. All five plays were successful in meeting their funding goal. They each had a relatively modest goal, with the highest goal being just $4000 and the average being $2100. They each had a good number of backers (mean = 62.4), with each person contributing an average of $40.5.
-
-
- 
- 
+The other suggestion would be to look at the effect of the Kickstarter Staff Pick status. Staff Pick was a feature where projects were selected by Kickstarter staff to receive extra exposure through newsletters and the website. These projects had their profile significantly boosted and were seen by many more potential backers than those not selected. The Staff Pick program no longer exists, but it was active during the time period of our dataset and certainly contributed to the success rate of projects. A quick glance at the play campaigns confirms this suspicion. In the dataset, 114 plays were Staff Picks and 103 (90.4%) of these were successful in being funded. Conversely, of the 941 campaigns that were not Staff Picks, only 591 (62.8%) were successful. Because the Staff Picks feature is no longer active, Louise's play has no chance to be included in this prestigious cohort. Because of it's significant impact on campaign outcome, one could make a case for eliminating campaigns that were Staff Picks from future analysis.
